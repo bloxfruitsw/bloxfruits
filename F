@@ -1,0 +1,1 @@
+setclipboard("https://discord.gg/s64nG74WD")
